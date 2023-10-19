@@ -29,7 +29,7 @@
     "@types/uuid": "8.3.3",
     "nyc": "15.1.0",
     "rosie": "2.1.0",
-    "sqlite3": "5.0.2",
+    "sqlite3": "5.1.5",
     "testdouble": "3.16.3",
     "ts-node": "10.4.0",
     "ts-node-dev": "1.1.8",
