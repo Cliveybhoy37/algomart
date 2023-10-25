@@ -35,7 +35,7 @@
     "clsx": "1.1.1",
     "cookies": "0.8.0",
     "cors": "2.8.5",
-    "crypto-js": "4.1.1",
+    "crypto-js": "4.2.0",
     "dinero.js": "2.0.0-alpha.8",
     "firebase": "9.6.0",
     "firebase-admin": "10.0.0",
